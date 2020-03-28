@@ -1,3 +1,5 @@
+/* */
+
 import window from 'global/window';
 import videojs from 'video.js';
 import ContextMenuItem from './context-menu-item';
